@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Isci Kayıt Ekleme</string>
+    <string name="reminder_title_hint">Ad Soyad giriniz.</string>
+    <string name="reminder_ad_soyad_label">Isci Ad Soyad :</string>
+    <string name="reminder_details_label">Isci ise giris tarihi :</string>
+    <string name="reminder_completed_label">Completed</string>
+    <string name="date_picker_title">İse Baslangıc tarihi giriniz:</string>
+    <string name="new_reminder">Yeni İsci</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d reminders</string>
+    <string name="button_kız">Kız</string>
+    <string name="button_erkek">Erkek</string>
+    <string name="reminder_title_adres">" Adres giriniz :"</string>
+    <string name="reminder_title_id">ID Giriniz.</string>
+</resources>
